@@ -1,0 +1,6 @@
+front end : https://churn-cust-cc.herokuapp.com/
+back end : https://cindra-backend.herokuapp.com/
+
+other back end : https://cindra-backend.herokuapp.com/predict?seniorcitizen=0&partner=Yes&dependents=Yes&tenure=24&phoneservice=Yes&internetservice=Fiber%20optic&contract=One%20year&paperlessbilling=No&paymentmethod=Mailed%20check&monthlycharges=29
+
+you may change the value after =
